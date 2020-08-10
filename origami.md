@@ -4,6 +4,3 @@ title: Origami
 permalink: /origami/
 ---
 
-
-
-
