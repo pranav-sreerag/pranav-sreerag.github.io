@@ -1,6 +1,6 @@
 
 ---
-layout: puppets
+layout: performance
 title: Commissions
 permalink: /commissions/
 ---
