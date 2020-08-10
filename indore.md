@@ -1,7 +1,7 @@
 ---
-layout: about
-title: What's <i>ikkarai</i>?
-permalink: /meaning/
+layout: installations
+title: Indore
+permalink: /indore/
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-layout: workshops
+layout: storytelling
 title: Comics
 permalink: /comics/
 ---

@@ -1,7 +1,7 @@
 ---
-layout: workshops
-title: Craft
-permalink: /craft/
+layout: storytelling
+title: Videos
+permalink: /video/
 ---
 
  COMING SOON
