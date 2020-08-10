@@ -1,5 +1,5 @@
 ---
-layout: creations
+layout: installations
 title: Bhaya Bhakti
 permalink: /bhayabhakti/
 ---
