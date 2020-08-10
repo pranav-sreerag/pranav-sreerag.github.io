@@ -1,5 +1,5 @@
 ---
-layout: creations
+layout: performance
 title: Lentils and Stones
 permalink: /lentils/
 ---
