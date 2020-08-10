@@ -1,6 +1,6 @@
 ---
 layout: decoration
-title: kaveri
+title: Kaveri
 permalink: /kaveri/
 ---
 

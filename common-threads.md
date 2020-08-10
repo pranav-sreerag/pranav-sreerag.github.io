@@ -1,6 +1,6 @@
 ---
 layout: decoration
-title: common-threads
+title: Common Threads
 permalink: /common-threads/
 ---
 
