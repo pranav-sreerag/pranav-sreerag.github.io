@@ -3,7 +3,6 @@ layout: article-writing
 ---
 
 <ul class="subnav">
-    <li><a href="{{site.baseurl}}/store-decorations/">Store Decorations</a></li>
   <li><a href="{{site.baseurl}}/bhayabhakti/">Bhaya Bhakti</a></li>
    <li><a href="{{site.baseurl}}/chinnz/">Chinnz</a></li>
   <li><a href="{{site.baseurl}}/indore/">Indore</a></li>
