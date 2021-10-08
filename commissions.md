@@ -1,5 +1,5 @@
 ---
-layout: performance
+layout: masks-puppets
 title: Commissions
 permalink: /commissions/
 ---

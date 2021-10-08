@@ -1,5 +1,5 @@
 ---
-layout: performance
+layout: masks-puppets
 title: Lentils and Stones
 permalink: /lentils/
 ---
