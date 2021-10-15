@@ -25,6 +25,7 @@ I remember hearing how my grandfather used to work under a jenmi landlord.  In t
 
 
 In those days the roof of their house was made from palm leaf and coconut.
+In that time they cultivated rice, moong dal, tur dal, ground nuts, urad dal, green peas, and koorka (a tuber).
 
 
 
@@ -32,10 +33,6 @@ In those days the roof of their house was made from palm leaf and coconut.
 <center>
 <a href="../images/farming/farming5.jpg"><img SRC="../images/farming/farming5.jpg" ALT=""></a>
 </center>
-
-
-
-In that time they cultivated rice, moong dal, tur dal, ground nuts, urad dal, green peas, and koorka (a tuber).
 
 
 
