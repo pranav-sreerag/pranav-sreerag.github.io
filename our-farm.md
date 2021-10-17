@@ -8,7 +8,7 @@ My ancestors on both my mom's side and my dad's side were farmers in Palakkad Di
 
 
 <center>
-<a href="../images/farming/farming1.jpg"><img SRC="../images/farming/farming1.jpg" ALT=""></a>
+<a href="../images/farming/farming3.jpg"><img SRC="../images/farming/farming3.jpg" ALT=""></a>
 </center>
 
 
@@ -27,7 +27,7 @@ Our house is surrounded by lots of palm trees (pana maram). In those days the ro
 
 
 <center>
-<a href="../images/farming/farming3.jpg"><img SRC="../images/farming/farming3.jpg" ALT=""></a>
+<a href="../images/farming/farming0.jpg"><img SRC="../images/farming/farming0.jpg" ALT=""></a>
 </center>
 
 
@@ -109,5 +109,11 @@ The vegetables and fruits we harvested were shared among our small circle of fri
 
 
 I don't want to be a person who gives up on farming; I hope I can find a way to continue the tradition of my ancestors.
+
+
+<center>
+<a href="../images/farming/farming1.jpg"><img SRC="../images/farming/farming1.jpg" ALT=""></a>
+</center>
+
 
 
