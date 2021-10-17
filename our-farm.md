@@ -12,9 +12,9 @@ My ancestors on both my mom's side and my dad's side were farmers in Palakkad Di
 </center>
 
 
-We cultivated rice, moong dal, tur dal, ground nuts, urad dal, green peas, and koorka (a tuber), all together.  In those days my family had many cows and buffalos who helped out on the farm.
+We cultivated rice, moong dal, tur dal, groundnuts, urad dal, green peas, and koorka (a tuber), all together.  In those days my family had many cows and buffalos who helped out on the farm.
 
-Our house is surrounded by lots of palm trees (pana maram). In those days the roof of our house was made from palm leaf and coconut. 
+Our house is surrounded by lots of palm trees (pana maram). In those days the roof of our house was made from palm leaf and coconut leaf. 
 
 
 
