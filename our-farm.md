@@ -97,7 +97,16 @@ We planted some turmeric, some green peas,  five banana trees, a couple of marig
 
 The harvest was not as big as I first expected, but the experience with the soil was priceless.  I got to know the weaver birds who have colonies on the palm trees, a white neighbour dog who jumps on me every day, peacocks that say 'kioooo kioooooo', butterflies and dragonflies, crabs and small fish, and many many others!
 
+<center>
+<a href="../images/farming/farming1.jpg"><img SRC="../images/farming/farming1.jpg" ALT=""></a>
+</center>
+
+
+
 The vegetables and fruits we harvested were shared among our small circle of friends. That year of coming back to the land was honestly a life changing experience.
+
+
+I don't want to be a person who gives up on farming; I hope I can find a way to continue the tradition of my ancestors.
 
 
 
@@ -107,13 +116,6 @@ The vegetables and fruits we harvested were shared among our small circle of fri
 
 
 
-
-I don't want to be a person who gives up on farming; I hope I can find a way to continue the tradition of my ancestors.
-
-
-<center>
-<a href="../images/farming/farming1.jpg"><img SRC="../images/farming/farming1.jpg" ALT=""></a>
-</center>
 
 
 
