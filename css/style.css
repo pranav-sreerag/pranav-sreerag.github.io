@@ -25,6 +25,8 @@ body {
   height: 100%;
 }
 
+
+
 body {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.1em;
@@ -70,6 +72,20 @@ p, blockquote {
   margin: 0.5em 0;
   line-height: 1.5;
 
+}
+
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+   align-items: center;
+}
+
+.flex-container > div, img{
+  margin: 10px;
+  /* padding: 10px; */
+  font-size: 30px;
 }
 
 blockquote {
@@ -726,13 +742,14 @@ ul.post-list > li > .third {
   * Control & indicator mixin
 */
 .carousel {
-  height: 600px;
-  width: 800px;
+  height: 80%;
+  width: 70%;
   overflow: hidden;
   text-align: center;
   position: relative;
   padding: 0;
   list-style: none;
+
 /**
   * Where the magic happens
   */
@@ -965,6 +982,7 @@ ul.post-list > li > .third {
 }
 .carousel__slide {
   height: 100%;
+  width:  100%;
   position: absolute;
   overflow-y: auto;
   opacity: 0;
@@ -980,23 +998,23 @@ ul.post-list > li > .third {
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(2) {
   background-image: url("../images/carousel/carousel2.jpg");
   background-size: cover;
-  background-position: center;
+  background-position: right;
 }
 .carousel__slide:nth-of-type(3),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(3) {
   background-image: url("../images/carousel/carousel3.jpg");
   background-size: cover;
-  background-position: center;
+  background-position: left;
 }
 .carousel__slide:nth-of-type(4),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(4) {
   background-image: url("../images/carousel/carousel4.jpg");
   background-size: cover;
-  background-position: center;
+  background-position: left top;
 }
 .carousel__slide:nth-of-type(5),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(5) {
   background-image: url("../images/carousel/carousel5.jpg");
   background-size: cover;
-  background-position: center;
+  background-position: left bottom;
 }
