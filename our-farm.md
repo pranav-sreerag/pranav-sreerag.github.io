@@ -1,7 +1,9 @@
 ---
 layout: farming
-title: Our Farm
+title: returning to my roots
 permalink: /our-farm/
+keyword: Our Farm
+subnav_order: 1
 ---
 
 My ancestors on both my mom's side and my dad's side were farmers in Palakkad District, Kerala.

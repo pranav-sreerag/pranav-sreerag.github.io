@@ -2,9 +2,20 @@
 layout: article-writing
 ---
 
+{% assign nav_pages = site.pages | where: "layout", "farming" | sort: "subnav_order" %}
+
 <ul class="subnav">
-  <li><a href="{{site.baseurl}}/our-farm/">Our Farm</a></li>
-  <li><a href="{{site.baseurl}}/planters/">Planters</a></li>
+{% for p in nav_pages %}
+                 <li>
+                    {% if p.title == page.title %}
+                      <a style="font-weight: bold" href="{{ site.baseurl }}{{ p.permalink }}">{{ p.keyword }}</a>
+                    {% else %}
+                        <a href="{{ site.baseurl }}{{ p.permalink }}"> {{ p.keyword }} </a>
+                    {% endif %}
+                </li>
+{% endfor %}
 </ul>
+
+{% include header.html %}
 
 {{ content }}

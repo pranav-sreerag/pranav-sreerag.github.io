@@ -1,7 +1,9 @@
 ---
 layout: farming
-title: Planters Featuring Local Pottery and Basketry
+title: planters featuring local pottery and basketry
 permalink: /planters/
+keyword: Planters
+subnav_order: 2
 ---
 
 
