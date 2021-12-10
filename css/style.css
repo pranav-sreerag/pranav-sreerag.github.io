@@ -46,6 +46,19 @@ p, blockquote {
 }
 
 
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+   align-items: center;
+}
+
+.flex-container > div, img{
+  margin: 5px;
+  /* padding: 10px; */
+  font-size: 30px;
+}
+
 #cv {
   -webkit-font-smoothing: subpixel-antialiased;
   font-size: 1em;
