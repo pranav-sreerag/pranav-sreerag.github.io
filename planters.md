@@ -23,13 +23,14 @@ plants that most people don't usually care about, maybe because of their shape o
   <img src="../images/farming/planters3.jpg" style="width: 20vw; min-width: 8em">
 </div>
 
+Nowadays in my village people don't pay much attention to these plants that I love: thottavadi, mukkathi, thumba, kalli, mulla chedi (kalli cactus), to name a few.
 
 <div class="flex-container">
  <img src="../images/farming/planters4.jpg" style="width: 14vw; min-width: 4em">
   <img src="../images/farming/planters5.jpg" style="width: 14vw; min-width: 4em">
 </div>
 
-Nowadays in my village people don't pay much attention to these plants that I love: thottavadi, mukkathi, thumba, kalli, mulla chedi (kalli cactus), to name a few.
+
 
 
 I really wanted to showcase these plants, and display them in the right manner.  So I thought I'd make interesting planters, to give them the presentation they deserve.  
