@@ -1,7 +1,9 @@
 ---
 layout: installations
-title: Chinnz
+title: The Woven Man
 permalink: /chinnz/
+keyword: Chinnz
+subnav_order: 3
 ---
 
 <div class="flex-container" class="alignright">

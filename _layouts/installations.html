@@ -2,12 +2,23 @@
 layout: article-writing
 ---
 
+
+
+{% assign nav_pages = site.pages | where: "layout", "installations" | sort: "subnav_order" %}
+
 <ul class="subnav">
-    <li><a href="{{site.baseurl}}/store-decorations/">Store Decorations</a></li>
-  <li><a href="{{site.baseurl}}/bhayabhakti/">Bhaya Bhakti</a></li>
-   <li><a href="{{site.baseurl}}/chinnz/">Chinnz</a></li>
-  <li><a href="{{site.baseurl}}/indore/">Indore</a></li>
-  <li><a href="{{site.baseurl}}/tree/">Tree of Life</a></li>
+{% for p in nav_pages %}
+                 <li>
+                    {% if p.title == page.title %}
+                      <a style="font-weight: bold" href="{{ site.baseurl }}{{ p.permalink }}">{{ p.keyword }}</a>
+                    {% else %}
+                        <a href="{{ site.baseurl }}{{ p.permalink }}"> {{ p.keyword }} </a>
+                    {% endif %}
+                </li>
+{% endfor %}
 </ul>
 
+{% include header.html %}
+
 {{ content }}
+

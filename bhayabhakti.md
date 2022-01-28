@@ -2,33 +2,38 @@
 layout: installations
 title: Bhaya Bhakti
 permalink: /bhayabhakti/
+keyword: Bhaya Bhakti
+subnav_order: 2
 ---
 
 
-
-<i>Bhaya Bhakti: An installation  with  three focal points: the story of Nangeli, the folk performance of Poothapaatu, and the ritual possession of
+<i><b>Bhaya Bhakti</b>: An installation and graphic novella with  three focal points: the story of Nangeli, the folk performance of Poothapaatu, and the ritual possession of
 Velichappadu.</i>
 
-<div class="pictures-container">
- <img src="../images/bhayabhakti/bhayabhakti1.jpg" class="shrinkToFit" height="300">
+<div class="flex-container">
+ <img src="../images/textile-art/bhayabhakti1.jpg" style="min-width: 20rem; width: 30vw">
 </div>
 
 Created for Gender Benger 2018 by Pranav Sreerag, produced by Sandbox Collective and Goethe-Institut/Max Mueller Bhavan Bangalore
 
-Most people have heard the story of Nangeli -- the 19th century Ezhava woman who cut off her breasts
+Many people have heard the story of Nangeli -- the 19th century Ezhava woman who cut off her breasts
 and bled to death, rather than comply with the breast tax imposed by the landowning castes under the
-Travancore government. The story of Nangeli is often portrayed as one woman's heroic struggle
+Travancore government. 
+
+The story of Nangeli is often portrayed as one woman's heroic struggle
 against a patriarchial casteist system. While this reading is not wrong, it shifts the emphasis from
-Nangeli's shared struggle to Nangeli as an archetype, and to a singular dramatic act that seems to stands
-apart from the forces of oppression that persist today. We would like to reposition the story as part of
-the struggle of a people -- indeed a class -- against an opressive feudal power that uses women's bodies
+Nangeli's shared struggle to a singular dramatic act that seems to stands
+apart from the forces of oppression that persist today. 
+
+We would like to reposition the story as part of
+the struggle of a people against an opressive feudal power that uses women's bodies
 as a tool to subjugate an entire farming community and maintain its parasitic hold. Like so many other
 singular heroic figures, there is evidence that Nangeli and her husband Chirukandan (who jumped into
 her funeral pyre to take his own life) did not impulsively decide to become martyrs, but had long been
 active in a struggle for the rights and dignity of their community.
 
-<div class="pictures-container">
- <img src="../images/bhayabhakti/bhayabhakti2.jpg" class="shrinkToFit" height="300">
+<div class="flex-container">
+ <img src="../images/textile-art/bhayabhakti2.jpg" style="height: 20rem">
 </div>
 
 Bhaya Bhakti envisions both Nangeli and Chirukandan returning to this world in the genderless,
@@ -41,8 +46,8 @@ door after door, village after village, in search of opportunity that has been d
 humiliation made manifest: the slow grinding down and 'othering' of a people that justifies their
 exploitation.
 
-<div class="pictures-container">
- <img src="../images/bhayabhakti/bhayabhakti3.jpg" class="shrinkToFit" height="300">
+<div class="flex-container">
+ <img src="../images/textile-art/bhayabhakti3.jpg" style="height: 20rem">
 </div>
 
 Finally, Bhaya Bhakti  envisions a future uprising of the oppressed in an eruption of rage and fury. Through sound and smell, the installation channels the terrifying power of Velichappadu, in which men and women, undergoing ritual possession,
